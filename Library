@@ -1,0 +1,19 @@
+Libraries Used
+1. Flask: 
+   - A micro web framework for Python that you use to create the web application.
+   - Installation: `pip install Flask`
+2. Transformers:
+   - A library from Hugging Face that provides pre-trained models for various natural language processing (NLP) tasks, including sentiment analysis.
+   - Installation: `pip install transformers`
+3. torch (PyTorch):
+   - A deep learning library that is often required for running models provided by the transformers library.
+   - Installation: `pip install torch`
+4. Werkzeug: 
+   - A comprehensive WSGI web application library used by Flask. It provides utility functions for web development.
+   - Installation: It is typically installed automatically with Flask, but can also be installed directly: `pip install Werkzeug`
+5. HTML/CSS/JavaScript:
+   - While not Python libraries, these are used for creating the front end of your application. They are typically included in your HTML template files (like index.html).
+
+
+
+
